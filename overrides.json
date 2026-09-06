@@ -1,18 +1,10 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-09-06",
-  "blocked": [
-    "O5qahfzGtc8"
-  ],
+
+  "blocked": [],
+
   "replace": {},
-  "add": {
-    "chai": [
-      {
-        "title": "Chai Test Song",
-        "artist": "Override Test",
-        "youtubeId": "BddP6PYo2gs",
-        "lang": "hindi"
-      }
-    ]
-  }
+
+  "add": {}
 }
